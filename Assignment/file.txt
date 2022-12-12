@@ -1,0 +1,19 @@
+API - communication between two application mainly using data
+
+SOAP -- only XML /Lots of rules
+
+REST -- Representational state transfer 
+
+its supports all data types as long your server and clients understands
+
+Graph QL  --
+
+
+GET : https://localhost:5000/users/123/posts
+POST : https://localhost:5000/users
+PUT : https://localhost:5000/users
+DELETE : https://localhost:5000/users
+
+https://localhost:5000/v1/users
+
+https://localhost:5000/v2/users
